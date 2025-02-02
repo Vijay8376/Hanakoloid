@@ -1,6 +1,4 @@
-Got it! Here's the updated **README.md** with the correct download instructions:  
 
----
 
 # Hanakoloid - Tamil CVVC UTAU Voicebank  
 
