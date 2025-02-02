@@ -5,8 +5,8 @@
 **Hanakoloid** is the first **Tamil CVVC UTAU voicebank**, created for smooth and natural Tamil singing. It also supports other South Indian languages and Hindi with some accent adaptation.  
 
 ## 📥 Download  
-1. Go to the **Releases** section of this repository.  
-2. Download the **Hanakoloid.zip** file.  
+1. Click on **Hanakoloid.zip** file.
+2. Click on **Download raw**.  
 
 ## 📌 Features  
 - **CVVC format** for smooth transitions  
